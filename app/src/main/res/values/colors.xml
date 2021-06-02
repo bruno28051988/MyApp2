@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="sorte_black">#060a09</color>
+    <color name="mega">#009e4c</color>
+    <color name="quina">#42338b</color>
+    <color name="loto">#a7348b</color>
+    <color name="sorte">#79f12a</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
